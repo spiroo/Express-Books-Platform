@@ -26,7 +26,7 @@ var devConfig = {
         //.scss 文件使用 style-loader、css-loader 和 sass-loader 来编译处理
         {
             test: /\.scss$/,
-            loader: 'style!css?sourceMap!resolve-url!sass?sourceMap'
+            loader: 'style!css!!sass'
         }
       ]
     },
