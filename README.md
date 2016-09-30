@@ -3,7 +3,7 @@
 # Start
 
     1.Clone the repo.
-        git clone git@github.com:spiroo/Express-Books-Platform.git
+        git clone git@github.com:spiroo/webpack-express-full-loader.git
 
     2.Install dependencies.
         npm install
