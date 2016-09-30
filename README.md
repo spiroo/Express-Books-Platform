@@ -1,5 +1,4 @@
-# Express-Books-Platform
-A Books Management System which the company's internal use
+# webpack-express-full-loader
 
 # Start
 
